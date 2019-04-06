@@ -1,7 +1,7 @@
 {
-  "name": "twitterbot",
+  "name": "twitterKey",
   "version": "1.0.0",
-  "description": "twitter bot application ",
+  "description": "twitter realtime keyword scrapper  application ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,6 @@
   "author": "khoded",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.87.0",
     "twit": "^2.2.11"
   }
 }
